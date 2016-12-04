@@ -178,6 +178,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        ajeet632\MyPassport\MyPassportServiceProvider::class,
+
     ],
 
     /*
